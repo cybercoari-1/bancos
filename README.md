@@ -4,6 +4,8 @@ Olá! Este repositório foi criado para reunir logos de bancos em formato SVG co
 
 ## Lista de Bancos Disponíveis
 
+
+
 Aqui está a lista de bancos cujos logos estão presentes neste repositório:
 
 1. ABC Brasil
