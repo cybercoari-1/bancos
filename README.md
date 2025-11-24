@@ -1,446 +1,104 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Galeria Autom谩tica CDN - cybercoari</title>
-  <style>
-    :root {
-      --primary-color: #4a6ee0;
-      --secondary-color: #6c757d;
-      --background-color: #f8f9fa;
-      --card-bg: #ffffff;
-      --text-color: #333333;
-      --border-radius: 12px;
-      --shadow: 0 2px 10px rgba(0,0,0,0.08);
-      --transition: all 0.3s ease;
-    }
+# Repositório de Logos de Bancos em SVG
 
-    * {
-      box-sizing: border-box;
-    }
+Olá! Este repositório foi criado para reunir logos de bancos em formato SVG com dimensões de 2500px x 2500px. É uma coleção abrangente de logos que visa facilitar o acesso a essas imagens em alta resolução e qualidade.
 
-    body {
-      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
-      background: var(--background-color);
-      margin: 0;
-      padding: 20px;
-      color: var(--text-color);
-      line-height: 1.6;
-    }
+# Logos dos Bancos
 
-    header {
-      max-width: 1000px;
-      margin: 0 auto 30px;
-      text-align: center;
-    }
+<img src="./ABC Brasil/logoabc.svg" alt="Logo do ABC Brasil" width="100"/> <img src="./Ailos/logo-ailos.svg" alt="Logo do Ailos" width="100"/> <img src="./Asaas IP S.A/header-logo-azul.svg " alt="Logo do Asaas IP S.A" width="100"/> <img src="./Banco BS2 S.A/Banco_BS2.svg" alt="Logo do Banco BS2 S.A" width="100"/> <img src="./Banco BTG Pacutal/btg-pactual.svg" alt="Logo do Banco BTG Pacutal" width="100"/> <img src="./Banco C6 S.A/c6 bank.svg" alt="Logo do Banco C6 S.A" width="100"/> <img src="./Banco da Amazônia S.A/banco-da-amazonia.svg" alt="Logo do Banco da Amazônia S.A" width="100"/> <img src="./Banco%20Daycoval/logo-Daycoval- maior.svg" alt="Logo do Banco Daycoval" width="100"/> <img src="./Banco do Brasil S.A/banco-do-brasil-sem-fundo.svg" alt="Logo do Banco do Brasil S.A" width="100"/> <img src="./Banco do Estado do Espirito Santo/banestes.svg" alt="Logo do Banco do Estado do Espirito Santo" width="100"/> <img src="./Banco do Estado do Para/Logo_do_Banpará.svg" alt="Logo do Banco do Estado do Para" width="100"/> <img src="./Banco do Estado do Sergipe/logo banese.svg" alt="Logo do Banco do Estado do Sergipe" width="100"/> <img src="./Banco do Nordeste do Brasil S.A/Logo_BNB.svg" alt="Logo do Banco do Nordeste do Brasil S.A" width="100"/> <img src="./Banco Industrial do Brasil S.A/BIB-logo-azul.svg" alt="Logo do Banco Industrial do Brasil S.A" width="100"/> <img src="./bancos/inter.svg" alt="Logo do Banco Inter S.A" width="100"/> <img src="./Banco Mercantil do Brasil S.A/banco-mercantil-novo-azul.svg" alt="Logo do Banco Mercantil do Brasil S.A" width="100"/> <img src="./Banco Original S.A/banco-original-logo-verde.svg" alt="Logo do Banco Original S.A" width="100"/> <img src="./Banco Pine/banco-pine.svg" alt="Logo do Banco Pine" width="100"/> <img src="./Banco Rendimento/banco rendimento logo nova .svg" alt="Logo do Banco Rendimento" width="100"/> <img src="./Banco Safra S.A/logo-safra.svg" alt="Logo do Banco Safra S.A" width="100"/> <img src="./Banco Santander Brasil S.A/banco-santander-logo.svg" alt="Logo do Banco Santander Brasil S.A" width="100"/> <img src="./Banco Sofisa/logo-sofisa.svg" alt="Logo do Banco Sofisa" width="100"/> <img src="./Banco Topazio/logo-banco-topazio.svg" alt="Logo do Banco Topazio" width="100"/> <img src="./Banco Triângulo - Tribanco/logotribanco.svg" alt="Logo do Banco Triângulo - Tribanco" width="100"/><img src="./Bank of America/bankofamerica-logo.svg" alt="Logo do Bank of America" width="100"/> <img src="./Banrisul/banrisul-logo-2023.svg" alt="Logo do Banrisul" width="100"/> <img src="./bancos/bradesco.svg" alt="Logo do Bradesco S.A" width="100"/> <img src="./BRB - Banco de Brasilia/brb-logo-abreviado.svg" alt="Logo do BRB - Banco de Brasilia" width="100"/><img src="./bancos/caixa-economica-federal-X.svg" alt="Logo do Caixa Econômica Federal" width="100"/> <img src="./Capitual/logo capitual.svg" alt="Logo do Capitual" width="100"/> <img src="./Conta Simples Soluções em Pagamentos/conta-simples_logo.svg" alt="Logo do Conta Simples Soluções em Pagamentos" width="100"/> <img src="./Cora Sociedade Credito Direto S.A/icone-cora-rosa-2500px.svg" alt="Logo do Cora Sociedade Credito Direto S.A" width="100"/> <img src="./Credisis/credisis.svg" alt="Logo do Credisis" width="100"/> <img src="./Cresol/Icone-original.svg" alt="Logo do Cresol" width="100"/> <img src="./Efí - Gerencianet/logo-efi-bank-laranja-nome.svg" alt="Logo do Efí - Gerencianet" width="100"/> <img src="./Grafeno/grafeno.svg" alt="Logo do Grafeno" width="100"/> <img src="./Itaú Unibanco S.A/itau-fundo-azul.svg" alt="Logo do Itaú Unibanco S.A" width="100"/> <img src="./Lets Bank S.A/Logo Letsbank.svg" alt="Logo do Lets Bank S.A" width="100"/> <img src="./bancos/mercadopago.svg" alt="Logo do Mercado Pago" width="100"/> <img src="./Nu Pagamentos S.A/nubank-logo-2021.svg" alt="Logo do Nu Pagamentos S.A" width="100"/> <img src="./Omie.Cash/omie.svg" alt="Logo do Omie.Cash" width="100"/> <img src="./PagSeguro Internet S.A/logo.svg" alt="Logo do PagSeguro Internet S.A" width="100"/> <img src="./Quality Digital Bank/quality-logo-branco.svg" alt="Logo do Quality Digital Bank" width="100"/> <img src="./Sicoob/sicoob-vector-logo.svg" alt="Logo do Sicoob" width="100"/> <img src="./Sicredi/logo-svg2.svg" alt="Logo do Sicredi" width="100"/> <img src="./Stone Pagamentos S.A/stone.svg" alt="Logo do Stone Pagamentos S.A" width="100"/> <img src="./Unicred/unicred-centralizada.svg" alt="Logo do Unicred" width="100"/> <img src="./bancos/uniprime.svg" alt="Logo do Uniprime" width="100"/>
 
-    h1 {
-      margin-bottom: 8px;
-      color: var(--primary-color);
-      font-weight: 700;
-    }
+## Lista de Bancos Disponíveis
 
-    .subtitle {
-      color: var(--secondary-color);
-      margin-bottom: 20px;
-    }
+Aqui está a lista de bancos cujos logos estão presentes neste repositório:
 
-    .search-container {
-      max-width: 500px;
-      margin: 0 auto 20px;
-      position: relative;
-    }
+1. ABC Brasil
+2. Ailos
+3. Arbi
+4. Asaas IP S.A
+5. Banco BMP
+6. Banco BS2 S.A
+7. Banco BTG Pactual
+8. Banco C6 S.A
+9. Banco da Amazônia S.A
+10. Banco Daycoval
+11. Banco do Brasil S.A
+12. Banco do Estado do Espírito Santo
+13. Banco do Estado do Pará
+14. Banco do Estado do Sergipe
+15. Banco do Nordeste do Brasil S.A
+16. Banco Industrial do Brasil S.A
+17. Banco Inter S.A
+18. Banco Mercantil do Brasil
+19. Banco Original S.A
+20. Banco Paulista
+21. Banco Pine
+22. Banco Rendimento
+23. Banco Safra S.A
+24. Banco Santander Brasil S.A
+25. Banco Sofisa
+26. Banco Topazio
+27. Banco Triângulo - Tribanco
+28. Banco Votorantim
+29. Bank of America
+30. Banrisul
+31. Bees Bank
+32. BK Bank
+33. BMG
+34. BNP Paribas
+35. Bradesco S.A
+36. BRB - Banco de Brasília
+37. Caixa Econômica Federal
+38. Capitual
+39. Contbank
+40. Conta Simples Soluções em Pagamentos
+41. Cora Sociedade Crédito Direto S.A
+42. Credisis
+43. Cresol
+44. Duepay
+45. Efí - Gerencianet
+46. Grafeno
+47. InfinitePay
+48. Ifood Pago
+49. IP4Y
+50. Itaú Unibanco S.A
+51. Iugu IP S.A
+52. Linker
+53. MagaluPay
+54. Mercado Pago
+55. MFUG Brasil
+56. Modobank
+57. Múltiplo Bank
+58. Neon
+59. Nu Pagamentos S.A (Nubank)
+60. Omie.cash
+61. Omni
+62. PagSeguro Internet S.A
+63. Paycash
+64. PicPay
+65. Pinbank
+66. Quality Digital Bank
+67. RecargaPay
+68. Sicoob
+69. Sicredi
+70. Sisprime do Brasil
+71. Squid Soluções Financeiras
+72. Starbank
+73. Stone Pagamentos S.A
+74. Sulcredi
+75. Transfeera
+76. Unicred
+77. Uniprime
+78. XP Investimentos
+79. Zemo Bank
+80. Bancos Escuros (Subpasta com alguns bancos já mencionados)
 
-    #buscaImgs {
-      width: 100%;
-      padding: 12px 45px 12px 16px;
-      border: 2px solid #e1e5e9;
-      border-radius: var(--border-radius);
-      font-size: 16px;
-      transition: var(--transition);
-      box-sizing: border-box;
-    }
+## Contribuição
 
-    #buscaImgs:focus {
-      outline: none;
-      border-color: var(--primary-color);
-      box-shadow: 0 0 0 3px rgba(74, 110, 224, 0.1);
-    }
+Se você deseja contribuir com este repositório, sinta-se à vontade para fazer um fork e enviar um pull request. Ao adicionar novos logos, certifique-se de que eles estejam no formato SVG e com as dimensões mencionadas.
 
-    .stats {
-      display: flex;
-      justify-content: space-between;
-      max-width: 1000px;
-      margin: 0 auto 20px;
-      flex-wrap: wrap;
-      gap: 15px;
-    }
+## Licença
 
-    .stat-box {
-      background: var(--card-bg);
-      padding: 15px;
-      border-radius: var(--border-radius);
-      box-shadow: var(--shadow);
-      flex: 1;
-      min-width: 200px;
-    }
+Estes logos são propriedade de seus respectivos bancos. Este repositório é apenas uma coleção e não possui qualquer afiliação ou endosso dos bancos mencionados. Utilize os logos de acordo com as diretrizes de marca de cada banco e respeite os direitos autorais.
 
-    .stat-box h3 {
-      margin: 0 0 8px 0;
-      font-size: 16px;
-      color: var(--secondary-color);
-    }
+## Autor
 
-    .stat-box p {
-      margin: 0;
-      font-size: 24px;
-      font-weight: 700;
-      color: var(--primary-color);
-    }
-
-    .folder-stats {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-      gap: 10px;
-      margin-top: 10px;
-    }
-
-    .folder-stat {
-      display: flex;
-      justify-content: space-between;
-      padding: 8px 0;
-      border-bottom: 1px solid #eee;
-    }
-
-    .folder-name {
-      font-weight: 500;
-    }
-
-    .folder-count {
-      color: var(--secondary-color);
-      font-weight: 600;
-    }
-
-    .gallery {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-      gap: 20px;
-      max-width: 1000px;
-      margin: 0 auto;
-    }
-
-    .card {
-      background: var(--card-bg);
-      border-radius: var(--border-radius);
-      box-shadow: var(--shadow);
-      padding: 15px;
-      text-align: center;
-      transition: var(--transition);
-      overflow: hidden;
-      display: flex;
-      flex-direction: column;
-    }
-
-    .card:hover {
-      transform: translateY(-5px);
-      box-shadow: 0 8px 20px rgba(0,0,0,0.12);
-    }
-
-    .image-container {
-      height: 160px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      margin-bottom: 12px;
-      overflow: hidden;
-      border-radius: 8px;
-      background: #f8f9fa;
-    }
-
-    img {
-      max-width: 100%;
-      max-height: 100%;
-      object-fit: contain;
-      transition: var(--transition);
-    }
-
-    .card:hover img {
-      transform: scale(1.05);
-    }
-
-    .file-path {
-      margin-top: auto;
-      font-size: 13px;
-      color: var(--secondary-color);
-      word-break: break-all;
-      line-height: 1.4;
-    }
-
-    .no-results {
-      grid-column: 1 / -1;
-      text-align: center;
-      padding: 40px 20px;
-      color: var(--secondary-color);
-    }
-
-    .loading {
-      grid-column: 1 / -1;
-      text-align: center;
-      padding: 40px 20px;
-    }
-
-    .spinner {
-      border: 4px solid rgba(0, 0, 0, 0.1);
-      border-left-color: var(--primary-color);
-      border-radius: 50%;
-      width: 40px;
-      height: 40px;
-      animation: spin 1s linear infinite;
-      margin: 0 auto 20px;
-    }
-
-    @keyframes spin {
-      to { transform: rotate(360deg); }
-    }
-
-    @media (max-width: 768px) {
-      .stats {
-        flex-direction: column;
-      }
-      
-      .gallery {
-        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-        gap: 15px;
-      }
-    }
-
-    @media (max-width: 480px) {
-      body {
-        padding: 15px;
-      }
-      
-      .gallery {
-        grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
-        gap: 10px;
-      }
-      
-      .card {
-        padding: 10px;
-      }
-      
-      .image-container {
-        height: 120px;
-      }
-    }
-  </style>
-</head>
-<body>
-
-  <header>
-    <h1>CDN cybercoari</h1>
-    <p class="subtitle">Galeria de imagens do reposit贸rio GitHub</p>
-    
-    <div class="search-container">
-      <input 
-        type="text" 
-        id="buscaImgs" 
-        placeholder="馃攳 Buscar imagem por nome..." 
-      >
-    </div>
-  </header>
-
-  <div class="stats">
-    <div class="stat-box">
-      <h3>Total de Imagens</h3>
-      <p id="contador">0</p>
-    </div>
-    <div class="stat-box">
-      <h3>Imagens Encontradas</h3>
-      <p id="contadorFiltrado">0</p>
-    </div>
-    <div class="stat-box">
-      <h3>Pastas</h3>
-      <p id="contadorPastas">0</p>
-    </div>
-  </div>
-
-  <div class="gallery" id="gallery">
-    <div class="loading">
-      <div class="spinner"></div>
-      <p>Carregando imagens...</p>
-    </div>
-  </div>
-
-  <script>
-    // Configura莽玫es
-    const config = {
-      owner: "cybercoari-1",
-      repo: "bancos",
-      branch: "main"
-    };
-    
-    // URL base para as imagens
-    config.baseURL = `https://cdn.jsdelivr.net/gh/${config.owner}/${config.repo}@${config.branch}/`;
-
-    // Elementos DOM
-    const elements = {
-      gallery: document.getElementById("gallery"),
-      contador: document.getElementById("contador"),
-      contadorFiltrado: document.getElementById("contadorFiltrado"),
-      contadorPastas: document.getElementById("contadorPastas"),
-      buscaImgs: document.getElementById("buscaImgs")
-    };
-
-    // Estado da aplica莽茫o
-    let state = {
-      allImages: [],
-      filteredImages: [],
-      folders: {}
-    };
-
-    // Fun莽茫o principal para carregar imagens
-    async function carregarImagens() {
-      try {
-        const apiURL = `https://api.github.com/repos/${config.owner}/${config.repo}/git/trees/${config.branch}?recursive=1`;
-        const response = await fetch(apiURL);
-
-        if (!response.ok) {
-          if (response.status === 403) {
-            throw new Error("Limite de requisi莽玫es 脿 API do GitHub excedido. Tente novamente em alguns minutos.");
-          }
-          throw new Error(`Erro ${response.status}: ${response.statusText}`);
-        }
-
-        const data = await response.json();
-        
-        if (!data.tree) {
-          throw new Error("Estrutura de dados inesperada da API do GitHub");
-        }
-        
-        processarArquivos(data.tree);
-        
-      } catch (err) {
-        console.error("Erro ao carregar imagens:", err);
-        elements.gallery.innerHTML = `
-          <div class="no-results">
-            <h3>Erro ao carregar imagens</h3>
-            <p>${err.message}</p>
-            <p>Verifique se o reposit贸rio "${config.owner}/${config.repo}" existe e est谩 acess铆vel publicamente.</p>
-          </div>
-        `;
-      }
-    }
-
-    // Processa os arquivos retornados pela API
-    function processarArquivos(arquivos) {
-      const imagens = arquivos.filter(item =>
-        item.type === "blob" && /\.(png|jpg|jpeg|svg|gif|webp|bmp)$/i.test(item.path)
-      );
-
-      // Atualiza estado
-      state.allImages = imagens;
-      state.filteredImages = [...imagens];
-      
-      // Processa pastas
-      state.folders = {};
-      imagens.forEach(file => {
-        const pasta = file.path.includes("/") ? file.path.split("/")[0] : "Raiz";
-        state.folders[pasta] = (state.folders[pasta] || 0) + 1;
-      });
-
-      // Atualiza interface
-      atualizarContadores();
-      renderizarGaleria();
-      renderizarPastas();
-    }
-
-    // Atualiza os contadores na interface
-    function atualizarContadores() {
-      elements.contador.textContent = state.allImages.length;
-      elements.contadorFiltrado.textContent = state.filteredImages.length;
-      elements.contadorPastas.textContent = Object.keys(state.folders).length;
-    }
-
-    // Renderiza a galeria de imagens
-    function renderizarGaleria() {
-      if (state.filteredImages.length === 0) {
-        elements.gallery.innerHTML = `
-          <div class="no-results">
-            <h3>Nenhuma imagem encontrada</h3>
-            <p>Tente ajustar os termos da busca.</p>
-          </div>
-        `;
-        return;
-      }
-
-      elements.gallery.innerHTML = state.filteredImages.map(file => {
-        const url = config.baseURL + file.path;
-        return `
-          <div class="card">
-            <div class="image-container">
-              <img src="${url}" alt="${file.path}" loading="lazy">
-            </div>
-            <p class="file-path">${file.path}</p>
-          </div>
-        `;
-      }).join("");
-    }
-
-    // Renderiza as estat铆sticas de pastas
-    function renderizarPastas() {
-      // Verifica se j谩 existe o container de estat铆sticas de pastas
-      let folderStatsContainer = document.querySelector('.folder-stats-container');
-      
-      if (!folderStatsContainer) {
-        // Cria o container se n茫o existir
-        const statsContainer = document.querySelector('.stats');
-        folderStatsContainer = document.createElement('div');
-        folderStatsContainer.className = 'stat-box folder-stats-container';
-        folderStatsContainer.style.flexBasis = '100%';
-        folderStatsContainer.style.marginTop = '20px';
-        folderStatsContainer.innerHTML = `
-          <h3>Imagens por Pasta</h3>
-          <div class="folder-stats"></div>
-        `;
-        statsContainer.appendChild(folderStatsContainer);
-      }
-      
-      const folderStats = folderStatsContainer.querySelector('.folder-stats');
-      folderStats.innerHTML = Object.entries(state.folders)
-        .sort((a, b) => b[1] - a[1]) // Ordena por quantidade (decrescente)
-        .map(([pasta, count]) => `
-          <div class="folder-stat">
-            <span class="folder-name">${pasta}/</span>
-            <span class="folder-count">${count}</span>
-          </div>
-        `).join("");
-    }
-
-    // Filtra as imagens baseado no termo de busca
-    function filtrarImagens(termo) {
-      if (!termo) {
-        state.filteredImages = [...state.allImages];
-      } else {
-        const termoLower = termo.toLowerCase();
-        state.filteredImages = state.allImages.filter(file => 
-          file.path.toLowerCase().includes(termoLower)
-        );
-      }
-      
-      atualizarContadores();
-      renderizarGaleria();
-    }
-
-    // Inicializa莽茫o
-    document.addEventListener('DOMContentLoaded', () => {
-      carregarImagens();
-      
-      // Configura o evento de busca
-      elements.buscaImgs.addEventListener('input', function() {
-        filtrarImagens(this.value);
-      });
-    });
-  </script>
-</body>
-</html>
+-   Jonildo Ferreira Roque
