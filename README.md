@@ -102,3 +102,4 @@ Estes logos são propriedade de seus respectivos bancos. Este repositório é ap
 ## Autor
 
 -   Jonildo Ferreira Roque
+-   ``cybercoari@gmail.com``
